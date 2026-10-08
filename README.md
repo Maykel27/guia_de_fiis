@@ -4,9 +4,9 @@ Estratégia para escolher FIIs
 Objetivo
 Criar uma carteira de investimento de longo prazo baseado nos melhores FIIs
 
-Fontes: São pessoas com certificação e desempenho de FIIs acima do CDI o fator comparador entre o tipo de investimento.
-Diretriz: analisar estratégias que a longo prazo se mostraram eficazes, a exemplo Fórmula Mágica de Joel Greenblatt.
-Perguntas: melhores estratégias e porquê? Qual melhor FII para longo prazo para investir? Quais indicadores devo escolher de acordo com cada tipo de FII (tijolo, papel, FOF, logística etc.).
+Fontes: São pessoas com certificação e desempenho de FIIs acima do CDI o fator comparador entre o tipo de investimento. (https://youtu.be/1HNWCxq6z7c?si=n8ekSY01JcyiDAip).
+Diretriz: analisar estratégias que a longo prazo se mostraram eficazes, a exemplo Fórmula Mágica de Joel Greenblatt. (https://adelpha-api.mackenzie.br/server/api/core/bitstreams/596ca8dc-4ef2-4845-a63e-48c5e4aa370e/content) (https://repositorio.unesp.br/server/api/core/bitstreams/2ecbf9bb-c83a-42a0-bf0d-aa335daaca27/content).
+Perguntas: melhores estratégias e porquê? Qual melhor FII para longo prazo para investir? Quais indicadores devo escolher de acordo com cada tipo de FII (tijolo, papel, FOF, logística etc.). (https://repositorio.unesp.br/server/api/core/bitstreams/2ecbf9bb-c83a-42a0-bf0d-aa335daaca27/content).
 Link: https://notebook.google.com/notebook/4b193df4-3385-4497-ad61-3acab87f9077
 
 Vídeos
